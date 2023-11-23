@@ -10,4 +10,4 @@ We implemented various CNNs and explored aspects such as regularization, dropout
 
 Each notebook contains a particular model, with images of the architecture and its performance on the validation set. Further details are found in the "AN2DL HW01 report.pdf" file.
 
-<img width="592" alt="samples" src="https://github.com/LorenzoCastiglia/Deep-Learning-for-Image-Classifiaction/assets/61745838/5b252c5d-2fd2-4469-af8f-47f2ec14fc5b">
+<img width="592" alt="samples" src="https://github.com/LorenzoCastiglia/Deep-Learning-for-Image-Classifiaction/assets/61745838/a24a107b-daf7-4ad4-bbfc-bbf9a81e3d25">
